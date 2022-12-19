@@ -1,2 +1,1 @@
-# monty
-Stacks and Queues in C – Master the Concepts of LIFO &amp; FIFO
+0x19. C - Stacks, Queues - LIFO, FIFO
