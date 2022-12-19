@@ -1,4 +1,4 @@
-iiiiiiiii:#include "monty.h"
+#include "monty.h"
 bus_t bus = {NULL, NULL, NULL, 0};
 /**
 * main - monty code interpreter
@@ -43,3 +43,4 @@ int main(int argc, char *argv[])
 	fclose(file);
 return (0);
 }
+
