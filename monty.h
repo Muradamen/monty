@@ -76,7 +76,3 @@ void addqueue(stack_t **head, int n);
 void f_queue(stack_t **head, unsigned int counter);
 void f_stack(stack_t **head, unsigned int counter);
 #endif
-<<<<<<< HEAD
-
-=======
->>>>>>> fb05c255023890e2b82dd2a2e570ceade627aa3b
